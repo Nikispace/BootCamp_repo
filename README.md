@@ -19,16 +19,16 @@ It can perform addition, subtraction, multiplication, and division on two number
 2. Open a terminal or command prompt.
 3. Navigate to the project folder:
    ```bash
-   cd cipherschool-calculator
+   cd Git_github_bootcamp2026
    ```
 4. Run the script:
    ```bash
-   python calculator.py
+   python Simple_calculator.py
    ```
 5. Follow the on-screen instructions to choose an operation and enter numbers.
 
 ## Project Structure
 
-- `calculator.py` – Main Python script containing the calculator logic.
+- `Simple_calculator.py` – Main Python script containing the calculator logic.
 - `README.md` – Documentation for the project.
 
